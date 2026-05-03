@@ -27,6 +27,12 @@ Employee attrition can increase hiring costs, reduce productivity, and impact te
 - Lower work-life balance levels had higher attrition rates
 - Employees who left had lower average income than retained employees
 
+## Recommendations
+
+* Focus retention efforts on departments and tenure groups with higher attrition risk through targeted engagement and career development initiatives.
+* Strengthen employee satisfaction and work-life balance programs, as lower scores were associated with higher attrition.
+* Use regular attrition monitoring dashboards to identify emerging turnover patterns early and support proactive HR decision-making.
+
 ## Dashboard Preview
 
 [HR Dashboard](hr_attrition_analysis_dashboard.png)
